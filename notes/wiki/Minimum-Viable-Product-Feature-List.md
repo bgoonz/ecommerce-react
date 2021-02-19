@@ -12,10 +12,8 @@ Minimum Viable Product Feature List
 ---
 ## 3. Products
 
-- Products can either be articles of clothing or various types of baby adjacent furniture/equipment
-- Users can see all products listed and if they are available to rent
-- Logged in users can set time frame they would like to rent a product and get a response if the item will be available
-- Products will become unavailable as inventory is tracked
+- Products can either be ....
+- Users can see all products listed 
 - Logged in users can add products to a shopping cart including multiples of the same type if available.
 - Logged in users can leave comments and rate the products
 ---
@@ -28,12 +26,7 @@ Minimum Viable Product Feature List
 ## 5. Filtering
 - Users can navigate to different types of products through various dropdown options or buttons that initiate a sort.
 ---
-## 6. Inventory Management
-- Initial amounts will be stored in the database
-- Products can be added to a shopping cart if they are available
-- Products will be disabled if they are not
-- A set rental time (start date + end date + shipping time) will calculate how long to take an item out of inventory and then have it show as available.
----
+
 ## 7. Bonus - Search Items
 
 - Users can search for specific products
@@ -45,6 +38,4 @@ Minimum Viable Product Feature List
 - Technologies used
 - Link to live site
 - Link to Wiki docs
-- Discussion of two features that show off the team's technical abilities
-- Discussion of both challenges faced and the way the team solved them
 - Code snippets to highlight the best code
