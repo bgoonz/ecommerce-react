@@ -9,12 +9,12 @@ React ecommerce site for norwex consultants
 ## **Table of Contents**
 ---
 
-* [API Documentation](./notes/wiki/RocktheCradle_RTR_Clone.wiki/API-Documentation.md)
-* [Database Schema](./notes/wiki/RocktheCradle_RTR_Clone.wiki/Database-Schema.md)
-* [Front End Routes](./notes/wiki/RocktheCradle_RTR_Clone.wiki/Front-End-Routes.md)
-* [User Stories](./notes/wiki/RocktheCradle_RTR_Clone.wiki/User-Stories.md)
-* [Minimum Viable Product Feature List](./notes/wiki/RocktheCradle_RTR_Clone.wiki/Minimum-Viable-Product-Feature-List.md)
-* [User Stories](./notes/wiki/RocktheCradle_RTR_Clone.wiki/User-Stories.md)
+* [API Documentation](./notes/wiki/API-Documentation.md)
+* [Database Schema](./notes/wiki/Database-Schema.md)
+* [Front End Routes](./notes/wiki/Front-End-Routes.md)
+* [User Stories](./notes/wiki/User-Stories.md)
+* [Minimum Viable Product Feature List](./notes/wiki/Minimum-Viable-Product-Feature-List.md)
+* [User Stories](./notes/wiki/User-Stories.md)
 ---
 This is a full stack application utilizing the following technologies: 
 ### Backend Technologies:
