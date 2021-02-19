@@ -137,54 +137,11 @@ const ProductPage = () => {
                                     <p>DELIVERY + RETURN DATES</p>
                                 </div>
                                 <div className="flex justify-center text-xs p-2">
-                                    <div>
-                                        <label>Start Date: </label>
-                                        <input
-                                            type="date"
-                                            id="startDate"
-                                            name="startDate"
-                                            value={startDate}
-                                            onChange={(event) => setStartDate(event.target.value)}
-                                            className="w-21" />
-                                    </div>
+                             
                                     <p className="pr-2 pl-2">|</p>
-                                    <div>
-                                        <label>End Date: </label>
-                                        <input
-                                            type="date"
-                                            id="endDate"
-                                            name="endDate"
-                                            value={endDate}
-                                            onChange={(event) => setEndDate(event.target.value)}
-                                            className="w-21" />
-                                    </div>
+                                    
                                 </div>
-                                {/* <div className="mt-1">
-                                    <div className="flex">
-                                        <div>
-                                            <input
-                                                id='fourDay'
-                                                type='radio'
-                                                value='fourDay'
-                                            />
-                                        </div>
-                                        <div className="pl-2 text-xs">
-                                            <label>4 Day Rental</label>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div className="flex">
-                                            <div>
-                                                <input
-                                                    id='fiveDay'
-                                                    type='radio'
-                                                    value='fiveDay'
-                                                />
-                                                <label className="pl-2 text-xs">5 Day Rental</label>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> */}
+                                {}
                                 <div>
                                     <button type="submit" className="bg-black text-white hover:bg-opacity-75 w-full mt-2 rounded-sm text-xs p-2">Add to bag</button>
                                 </div>
