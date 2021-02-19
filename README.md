@@ -1,5 +1,5 @@
 <p align=center>
-<img src="./frontend/public/../static/images/Norwex_Logo.png" width=600px height=350px/>
+<img src="./frontend/public/../static/images/Norwex_Logo.png" width=800px height=350px/>
 </p>
 
 ## Welcome!
