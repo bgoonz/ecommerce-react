@@ -12,3 +12,4 @@ module.exports = {
         expiresIn: process.env.JWT_EXPIRES_IN,
     },
 };
+//configure database variables...grabing from process enviorment and feeding it to the config file
